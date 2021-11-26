@@ -1,0 +1,174 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "slug": "skill00001",
+            "image": "/img/html.png",
+            "title": "HTML language",
+            "skill": "HTML",
+            "description": "I have design website structure with html, html5 also design email template."
+        },
+        {
+            "id": "2",
+            "slug": "skill00002",
+            "image": "/img/css.png",
+            "title": "CSS language",
+            "skill": "CSS",
+            "description": "I have ability style complete website layout using with css, using Flexbox & css Grid."
+        },
+        {
+            "id": "3",
+            "slug": "skill00003",
+            "image": "/img/bootstrap.png",
+            "title": "Bootstrap framework",
+            "skill": "Bootstarp",
+            "description": "I design website with 3, 4, 5 and website is fully responsive and have browser compatibility."
+        },
+        {
+            "id": "4",
+            "slug": "skill00004",
+            "image": "/img/scss.png",
+            "title": "SCSS language",
+            "skill": "SCSS",
+            "description": "I design any website with pre-processor, using DRY  and mobile first approach."
+        },
+        {
+            "id": "5",
+            "slug": "skill00005",
+            "image": "/img/javascript.png",
+            "title": "Javascript language",
+            "skill": "JavaScript",
+            "description": "I have skill JavaScript to design component for website and making website interactive."
+        },
+        {
+            "id": "6",
+            "slug": "skill00006",
+            "image": "/img/jquery.png",
+            "title": "Jquery library",
+            "skill": "Jquery",
+            "description": "I often work with jquery to making website interactive and add pluging for website."
+        },
+        {
+            "id": "7",
+            "slug": "skill00007",
+            "image": "/img/react.png",
+            "title": "React library",
+            "skill": "React",
+            "description": "I fully understand React JS also use React Bootstrap, Tailwinds CSS for creating component."
+        },
+        {
+            "id": "8",
+            "slug": "skill00008",
+            "image": "/img/nextjs.png",
+            "title": "Nest js framework",
+            "skill": "Next js",
+            "description": "I using Next Js for Routing and creating pages with react and bind JSON."
+        },
+        {
+            "id": "9",
+            "slug": "skill00009",
+            "image": "/img/tailwind-css.png",
+            "title": "Tailwind css",
+            "skill": "Tailwind CSS",
+            "description": "I have skill Tailwind CSS to design component for website and making pages interactive."
+        },
+        {
+            "id": "10",
+            "slug": "skill00010",
+            "image": "/img/react-bootstrap.png",
+            "title": "React Bootstrap",
+            "skill": "React Bootstrap",
+            "description": "I have skill React Bootstrap to design component for website and making pages interactive."
+        },
+        {
+            "id": "11",
+            "slug": "skill00011",
+            "image": "/img/material-ui.png",
+            "title": "Material UI",
+            "skill": "Material UI",
+            "description": "I have skill Material UI to design component for website and making pages interactive."
+        },
+        {
+            "id": "12",
+            "slug": "skill00012",
+            "image": "/img/webpack.png",
+            "title": "Webpack build tool",
+            "skill": "Webpack",
+            "description": "I have skill Webpack a modern build for compile javascript, scss."
+        },
+        {
+            "id": "13",
+            "slug": "skill00013",
+            "image": "/img/gulp.png",
+            "title": "Gulp js build tool",
+            "skill": "Gulp js",
+            "description": "I have skill Gulp js a modern build for compile javascript, scss."
+        },
+        {
+            "id": "14",
+            "slug": "skill00014",
+            "image": "/img/photoshop.png",
+            "title": "Adobe Photoshop",
+            "skill": "Adobe Photoshop",
+            "description": "I often use photoshop for editing, inhencing, croping and mking PSD for web-layout."
+        },
+        {
+            "id": "15",
+            "slug": "skill00015",
+            "image": "/img/illustrator.png",
+            "title": "Adobe Illustrator",
+            "skill": "Adobe Illustrator",
+            "description": "I used illustor for creating icon making website layout and eding vector icons and much more."
+        },
+        {
+            "id": "16",
+            "slug": "skill00016",
+            "image": "/img/adobe-xd.png",
+            "title": "Adobe XD",
+            "skill": "Adobe XD",
+            "description": "Adobe XD is used for creating website and mobile layout and also creating icons."
+        }
+    ],
+    "works": [
+        {
+            "p_id": "1",
+            "slug": "works0001",
+            "p_name": "Finnid Pro",
+            "p_image": "/img/finnidpro.png",
+            "p_title": "Finnidpro a company regitration website",
+            "p_language": "HTML, SCSS, JavaScript",
+            "p_url": "https://finnidpro.com/",
+            "p_description": "Finnid Pro Offers - Company Registration, Private Limited, LLP, Nidhi Company Registration and Software, Register Trademarks online, GST Registration, and ITR Filling."
+        },
+        {
+            "p_id": "2",
+            "slug": "works0002",
+            "p_name": "Diptimate Consultants",
+            "p_image": "/img/diptimate.png",
+            "p_title": "Diptimate main company website",
+            "p_language": "HTML, SCSS, JavaScript",
+            "p_url": "http://diptimate.com/",
+            "p_description": "Finnid Pro Offers - Company Registration, Private Limited, LLP, Nidhi Company Registration and Software, Register Trademarks online, GST Registration, and ITR Filling."
+        },
+        {
+            "p_id": "3",
+            "slug": "works0003",
+            "p_name": "Qpick Services",
+            "p_image": "/img/qpick.png",
+            "p_title": "Qpick Services retailer, distributer website",
+            "p_language": "HTML, SCSS, JavaScript",
+            "p_url": "http://qpickservices.com/",
+            "p_description": "Finnid Pro Offers - Company Registration, Private Limited, LLP, Nidhi Company Registration and Software, Register Trademarks online, GST Registration, and ITR Filling."
+        },
+        {
+            "p_id": "4",
+            "slug": "works0004",
+            "p_name": "Unisex Salon",
+            "p_image": "/img/salon.png",
+            "p_title": "Unisex Salon website",
+            "p_language": "HTML, SCSS, JavaScript",
+            "p_url": "http://website.qpickservices.com/ap/",
+            "p_description": "Finnid Pro Offers - Company Registration, Private Limited, LLP, Nidhi Company Registration and Software, Register Trademarks online, GST Registration, and ITR Filling."
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+/* BANNER CODE */
+
+.smallBanner {
+  height: 190px;
+  width: 100%;
+}
+
+/* MEDIA QUERY */
+
+@media (min-width: 768px) {
+  .smallBanner {
+    height: 300px;
+  }
+}
+
+@media (min-width: 1366px) {
+  .banner {
+    height: 80vh;
+  }
+}
+
+@media (min-width: 1536px) {
+  .banner {
+    height: 70vh;
+  }
+}
+
+@media (min-width: 1920px) {
+  .banner {
+    height: 60vh;
+  }
+}

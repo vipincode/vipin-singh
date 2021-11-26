@@ -1,0 +1,15 @@
+/* ./styles/globals.css */
+:root {
+  --color-primary: #dc5346;
+  --color-secondary: #cfd0bf;
+  --color-gray: #f2f3e6;
+  --color-black: #0e273c;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap'); 
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
