@@ -1,4 +1,3 @@
-import {API_URL} from '@/config/index'
 import Layout from "@/component/Layout"
 import Heading from '@/component/Heading'
 import Skills from '@/component/Skills'

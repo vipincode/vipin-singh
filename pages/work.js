@@ -1,4 +1,3 @@
-import { API_URL } from "@/config/index"
 import Layout from "@/component/Layout"
 import WorkCard from "@/component/WorkCard"
 import Heading from "@/component/Heading"
